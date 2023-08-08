@@ -1,0 +1,5 @@
+.assets/
+__pycache__/test_loginpage.cpython-311-pytest-7.4.0.pyc
+gitignore
+__pycache__/test_veerfixtures.cpython-311-pytest-7.4.0.py
+__pycache__/test_val_sum.cpython-311-pytest-7.4.0.pyc
